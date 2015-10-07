@@ -1,0 +1,11 @@
+Package: RpostGIS
+Type: Package
+Title: Wrapper to PostGIS functions
+Version: 1.0
+Date: 2015-10-07
+Author: Norbert Solymosi
+Maintainer: Norbert Solymosi <solymosi.norbert@gmail.com>
+Depends: R (>= 3.2.1), RPostgreSQL, sp
+Description: The library makes it possible to convert WKT formated maps from PostGIS databases to spatial class defined by the sp package. 
+License: GPL-3
+
